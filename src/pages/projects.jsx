@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import ProjecgComponent from '../components/project.component'
+import ProjecgComponent from '../components/project.component';
 
 export default class Projects extends Component {
+
 
     render() {
         return (
